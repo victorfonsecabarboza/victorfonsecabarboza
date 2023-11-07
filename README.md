@@ -23,7 +23,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfonsecabarboza&hide=html&layout=compact&theme=dark"/>
 </a>
 
+<br/>
+
 <h3>Contato</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/victorfonseca-ads)](www.linkedin.com/in/victorfonseca-ads)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victorfonseca-ads/)](https://www.linkedin.com/in/victorfonseca-ads/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorfonsecabarboza@gmail.com)](mailto:victorfonsecabarboza@gmail.com)
