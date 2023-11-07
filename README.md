@@ -4,7 +4,6 @@
 - 💼 Estagiando como analista de sistemas  no <a href="https://www.tjrj.jus.br/">Tribunal de Justiça do Estado do Rio de Janeiro</a>
 
 <br/>
-<br/>
 
 <h3>Skills</h3>
 
