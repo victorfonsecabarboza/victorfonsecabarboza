@@ -15,8 +15,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
-
 <a href="https://github.com/victorfonsecabarboza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfonsecabarboza&theme=dark"/>
 </a>
@@ -27,5 +25,5 @@
 
 <h3>Contato</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/victorfonseca-ads)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:victorfonsecabarboza@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/victorfonseca-ads)](www.linkedin.com/in/victorfonseca-ads)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorfonsecabarboza@gmail.com)](mailto:victorfonsecabarboza@gmail.com)
