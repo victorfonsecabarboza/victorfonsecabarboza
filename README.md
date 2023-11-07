@@ -17,10 +17,7 @@
 
 <a href="https://github.com/victorfonsecabarboza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfonsecabarboza&theme=dark"/>
-</a>
-
-<a href="https://github.com/victorfonsecabarboza">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfonsecabarboza&hide=html&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfonsecabarboza&hide=html&layout=compact&theme=dark"/>
 </a>
 
 <br/>
