@@ -8,9 +8,9 @@
 **Aplicações e dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![SpringBoot](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Angular](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
@@ -34,7 +34,8 @@
 <a href="https://github.com/victorfonsecabarboza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfonsecabarboza&theme=dark"/>
 </a>
-<a>
+
+<a href="https://github.com/victorfonsecabarboza">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfonsecabarboza&hide=html&layout=compact&theme=dark"/>
 </a>
 
