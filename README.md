@@ -4,6 +4,7 @@
 - 💼 Estagiando como analista de sistemas  no <a href="https://www.tjrj.jus.br/">Tribunal de Justiça do Estado do Rio de Janeiro</a>
 
 <br/>
+<br/>
 
 <h3>Skills</h3>
 
@@ -23,6 +24,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfonsecabarboza&hide=html&layout=compact&theme=dark"/>
 </a>
 
+<br/>
 <br/>
 
 <h3>Contato</h3>
