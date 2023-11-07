@@ -32,8 +32,8 @@
 <br/>
 
 <a href="https://github.com/victorfonsecabarboza">
-  [![victorfonsecabarboza](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![victorfonsecabarboza](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark"/>
 </a>
 
 <h3>Onde me encontrar</h3>
