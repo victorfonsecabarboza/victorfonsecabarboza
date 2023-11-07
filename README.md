@@ -1,7 +1,7 @@
 <h3>Sobre mim</h3>
 
-🎓 Estudando Análise e Desenvolvimento de Sistemas (4º Período) no <a href="https://www.rj.senac.br/">Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC)</a>.
-💼 Estagiando como analista de sistemas  no <a href="https://www.tjrj.jus.br/">Tribunal de Justiça do Estado do Rio de Janeiro</a>
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas (4º Período) no <a href="https://www.rj.senac.br/">Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC)</a>.
+- 💼 Estagiando como analista de sistemas  no <a href="https://www.tjrj.jus.br/">Tribunal de Justiça do Estado do Rio de Janeiro</a>
 
 <br/>
 
