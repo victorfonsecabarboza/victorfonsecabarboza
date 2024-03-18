@@ -55,5 +55,4 @@ Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento d
 
 <a href="https://github.com/victorfonsecabarboza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfonsecabarboza&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfonsecabarboza&hide=html&layout=compact&theme=dark"/>
 </a>
