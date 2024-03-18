@@ -8,13 +8,13 @@ Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento d
 
 1. Tribunal de Justiça do Estado do Rio de Janeiro:
     - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, Gestão e priorização de demandas e Acompanhamento de projetos de sistemas relativos a 2 ° instância);
-    - 2022 até Atualmente;
+    - 2022 - Atualmente;
 
 ## 🎓 Formação:
 
 1. Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC -
    FATEC) 5° Período;
-    - 2020 até Atualmente;
+    - 2020 - Atualmente;
 
 ## 🛠 Habilidades Técnicas:
 
@@ -31,10 +31,6 @@ Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento d
     - Relacional (MySql);
 5. Utilitários:
     - Ide (Visual Studio Code, Ecplipse, Spring Tool Suite);
-
-## 📚 Currículo Lattes:
-
-- verificar
 
 ##  🌐 Contatos:
 
