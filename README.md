@@ -19,8 +19,8 @@ Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento d
 ## 🛠 Habilidades Técnicas:
 
 1. Engenharia de Software:
-    - Uml (Diagrama de Casos de Uso, Diagrama de Classes, Diagrama de Pacotes);
-    - Documento de Requisitos;
+    - Uml (Diagrama de Casos de Uso, Diagrama de Classes, Diagrama de Atividade);
+    - Documentação de Requisitos;
 2. Frontend:
     - Linguagem de Programação (HTML, CSS, JavaScript);
     - Framework (Angular);
