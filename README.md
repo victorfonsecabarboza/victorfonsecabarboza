@@ -7,8 +7,7 @@ Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento d
 💼 Experiência Profissional:
 
 1. Tribunal de Justiça do Estado do Rio de Janeiro:
-    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância);
-    - 2022 - Atualmente;
+    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância) 2022 - Atualmente;
 
 ## 🎓 Formação:
 
