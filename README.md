@@ -2,7 +2,7 @@
 
 📰 Resumo:
 
-Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC). Atuo na área de TI desde dezembro de 2022 como analista de sistemas especilidade em administração, tendo experiência em pontos de função e construção de interfaces com o Framework Angular. Atualmente contribuo em projetos ágeis, com a metodologia SCRUM. Possuo habilidades em Java, Spring Boot, UML, Angular, Git e GitHub.
+Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC). Atuo na área de TI desde dezembro de 2022 como analista de sistemas especilidade em administração, tendo experiência em pontos de função e construção de interfaces com o Framework Angular. Atualmente contribuo em projetos ágeis, com a metodologia SCRUM. Possuo habilidades em TypeScript, NestJs, HTML5, CSS3, Angular.
 
 💼 Experiência Profissional:
 
