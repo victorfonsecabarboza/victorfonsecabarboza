@@ -2,12 +2,12 @@
 
 📰 Resumo:
 
-Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC). Atuo na área de TI desde dezembro de 2022 como analista de sistemas, tendo experiência em pontos de função e construção de interfaces com o Framework Angular. Atualmente contribuo em projetos ágeis, com a metodologia SCRUM. Possuo habilidades em Java, Spring Boot, UML, Angular, Git e GitHub.
+Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC). Atuo na área de TI desde dezembro de 2022 como analista de sistemas especilidade em administração, tendo experiência em pontos de função e construção de interfaces com o Framework Angular. Atualmente contribuo em projetos ágeis, com a metodologia SCRUM. Possuo habilidades em Java, Spring Boot, UML, Angular, Git e GitHub.
 
 💼 Experiência Profissional:
 
 1. Tribunal de Justiça do Estado do Rio de Janeiro:
-    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, Gestão e priorização de demandas e Acompanhamento de projetos de sistemas relativos a 2 ° instância);
+    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância);
     - 2022 - Atualmente;
 
 ## 🎓 Formação:
@@ -25,12 +25,13 @@ Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento d
     - Linguagem de Programação (HTML, CSS, JavaScript);
     - Framework (Angular);
 3. Backend:
-    - Linguagem de Programação (Java, C++);
-    - Framework (Spring Boot);
+    - Linguagem de Programação (Java, TypeScript, C++);
+    - Framework (NestJs);
 4. Banco de Dados:
     - Relacional (MySql);
 5. Utilitários:
     - Ide (Visual Studio Code, Ecplipse, Spring Tool Suite);
+    - Ferramenta de projetos ageis (Jira);
 
 ##  🌐 Contatos:
 
@@ -40,7 +41,6 @@ Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento d
 #  💻 Tecnologias e Ferramentas:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
