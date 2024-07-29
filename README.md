@@ -2,18 +2,18 @@
 
 📰 Resumo:
 
-Analista e Desenvolvedor de Sistemas, Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC). Atuo na área de TI desde dezembro de 2022 como analista de sistemas especilidade em administração, tendo experiência em pontos de função e construção de interfaces com o Framework Angular. Atualmente contribuo em projetos ágeis, com a metodologia SCRUM. Possuo habilidades em TypeScript, NestJs, HTML5, CSS3, Angular.
+Analista e Desenvolvedor de Sistemas, Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC). Atuo na área de TI desde dezembro de 2022 como analista de sistemas especilidade em administração, tendo experiência em pontos de função e construção de interfaces com o Framework Angular. Contribui em projetos ágeis, com a metodologia SCRUM. Possuo habilidades em TypeScript, NestJs, HTML5, CSS3, Angular.
 
 💼 Experiência Profissional:
 
 1. Tribunal de Justiça do Estado do Rio de Janeiro:
-    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância) / 2022 - Atualmente;
+    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância) / dszembro 2022 - junho 2024;
 
 ## 🎓 Formação:
 
-1. Graduando em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC -
-   FATEC) 5° Período;
-    - 2020 - Atualmente;
+1. Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC -
+   FATEC);
+    - 2020 - 2024;
 
 ## 🛠 Habilidades Técnicas:
 
