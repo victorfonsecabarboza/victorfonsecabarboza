@@ -8,7 +8,7 @@ Tenho experiência na construção de interfaces utilizando o Framework Angular 
 ## 💼 Experiência Profissional:
 
 1. Tribunal de Justiça do Estado do Rio de Janeiro:
-    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância) / dezembro 2022 - junho 2024;
+    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância) - dezembro 2022 / junho 2024;
 
 ## 🎓 Formação:
 
