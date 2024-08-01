@@ -2,7 +2,8 @@
 
 📰 Resumo:
 
-Analista e Desenvolvedor de Sistemas, Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC - FATEC). Atuo na área de TI desde dezembro de 2022 como analista de sistemas especilidade em administração, tendo experiência em pontos de função e construção de interfaces com o Framework Angular. Contribui em projetos ágeis, com a metodologia SCRUM. Possuo habilidades em TypeScript, NestJs, HTML5, CSS3, Angular.
+Graduado em Análise e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC). Durante o estágio em análise de sistemas, com foco principal no setor administrativo, adquiri habilidades significativas em pontos de função e gestão de demandas. Durante a graduação atuei em projetos ágeis, aplicando a metodologia SCRUM e desempenhei o papel de Scrum Master em um projeto de gerenciamento de versionamento de arquivos para a G+P Soluções.
+Tenho experiência na construção de interfaces utilizando o Framework Angular e na criação de APIs com NestJS.
 
 💼 Experiência Profissional:
 
@@ -11,8 +12,7 @@ Analista e Desenvolvedor de Sistemas, Graduado em Análises e Desenvolvimento de
 
 ## 🎓 Formação:
 
-1. Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC -
-   FATEC);
+1. Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC);
     - 2020 - 2024;
 
 ## 🛠 Habilidades Técnicas:
@@ -20,10 +20,10 @@ Analista e Desenvolvedor de Sistemas, Graduado em Análises e Desenvolvimento de
 1. Engenharia de Software:
     - Uml (Diagrama de Casos de Uso, Diagrama de Classes, Diagrama de Atividade);
     - Documentação de Requisitos;
-2. Frontend:
+2. Front-end:
     - Linguagem de Programação (HTML, CSS, JavaScript);
     - Framework (Angular);
-3. Backend:
+3. Back-end:
     - Linguagem de Programação (Java, TypeScript, C++);
     - Framework (NestJs);
 4. Banco de Dados:
