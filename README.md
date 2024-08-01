@@ -5,7 +5,7 @@
 Graduado em Análise e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC). Durante o estágio em análise de sistemas, com foco principal no setor administrativo, adquiri habilidades significativas em pontos de função e gestão de demandas. Durante a graduação atuei em projetos ágeis, aplicando a metodologia SCRUM e desempenhei o papel de Scrum Master em um projeto de gerenciamento de versionamento de arquivos para a G+P Soluções.
 Tenho experiência na construção de interfaces utilizando o Framework Angular e na criação de APIs com NestJS.
 
-💼 Experiência Profissional:
+## 💼 Experiência Profissional:
 
 1. Tribunal de Justiça do Estado do Rio de Janeiro:
     - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância) / dezembro 2022 - junho 2024;
