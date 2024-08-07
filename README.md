@@ -1,7 +1,6 @@
 ## 📰 Resumo:
 
-Graduado em Análise e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC). Durante o estágio em análise de sistemas, com foco principal no setor administrativo, adquiri habilidades significativas em pontos de função e gestão de demandas. Durante a graduação atuei em projetos ágeis, aplicando a metodologia SCRUM e desempenhei o papel de Scrum Master em um projeto de gerenciamento de versionamento de arquivos para a G+P Soluções.
-Tenho experiência na construção de interfaces utilizando o Framework Angular e na criação de APIs com NestJS.
+Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC. Durante a faculdade, atuei em projetos ágeis aplicando a metodologia SCRUM e desempenhei o papel de Scrum Master em um projeto de versionamento de arquivos para a G+P Soluções. Desenvolvi habilidades no setor administrativo em conferência de pontos de função e gestão de demandas. Possuo experiência na construção de interfaces e consumo de APIs com framework Angular e criação de APIs com framework NestJS.
 
 ## 💼 Experiência Profissional:
 
