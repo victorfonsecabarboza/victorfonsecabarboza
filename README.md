@@ -1,44 +1,46 @@
 ## 📰 Resumo:
 
-Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC. Durante a faculdade, atuei em projetos ágeis aplicando a metodologia SCRUM e desempenhei o papel de Scrum Master em um projeto de versionamento de arquivos para a G+P Soluções. Desenvolvi habilidades no setor administrativo em conferência de pontos de função e gestão de demandas. Possuo experiência na construção e ajustes de interfaces juntamente com integração com APIs utilizando o framework Angular e criação e implementação de APIs RESTful utilizando o framework NestJS.
+Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-RJ. Possuo experiência na criação e consumo de APIs utilizando Angular, NestJS, e Spring Boot, incluindo a conversão entre DTOs e entidades com ModelMapper, integração com bancos de dados relacionais via JPA/Hibernate e TypeORM e implementação de testes unitários com JUnit e Mockito. Durante a minha formação, atuei em projetos ágeis aplicando a metodologia SCRUM e desempenhei o papel de Scrum Master em um projeto de versionamento de arquivos para a G+P Soluções.
 
 ## 💼 Experiência Profissional:
 
-- Tribunal de Justiça do Estado do Rio de Janeiro:
-    - Atuação como Estagiário - Analista de Sistemas (Conferência de pontos de função, gestão de demandas e acompanhamento de projetos de sistemas relativos a 2° instância) - dezembro 2022 / junho 2024;
+- Analista Administrativo de TI, Tribunal de Justiça do Estado do Rio de Janeiro, Setembro 2024 - Atualmente.
+    - Análise dos processos de tramitação de documentos e informações utilizando o SEI (Sistema Eletrônico de Informações).
+    - Conferência de pontos de função para validação de complexidade e tamanho de funcionalidades.
+
+-  Estágio Analista de Sistemas, Tribunal de Justiça do Estado do Rio de Janeiro, Dezembro 2022 - Julho 2024.
+    - Conferência de pontos de função para validação de complexidade e tamanho de funcionalidades.
+    - Gerenciamento de demandas conforme prioridades administrativas.
+    - Acompanhamento de projetos e suporte técnico em sistemas judiciais de segunda instância.
 
 ## 🎓 Formação:
 
-- Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC) - fevereiro 2020 / julho 2024;
+- Graduado em Análises e Desenvolvimento de Sistemas pelo Serviço Nacional de Aprendizagem do Comércio (SENAC) - Julho 2024;
 
 ## 🛠 Habilidades Técnicas:
 
 - Engenharia de Software:
-    - Uml (Diagrama de Casos de Uso, Diagrama de Classes, Diagrama de Atividade);
+    - Uml: Diagrama de Casos de Uso, Diagrama de Classes, Diagrama de Atividade;
     - Documentação de Requisitos;
 - Front-end:
-    - Linguagem de Programação (HTML, CSS, JavaScript);
-    - Framework (Angular);
+    - Linguagem de Programação: HTML, CSS, JavaScript;
+    - Frameworks e Ferramentas de Desenvolvimento: Angular;
 - Back-end:
-    - Linguagem de Programação (Java, TypeScript, C++);
-    - Framework (NestJs);
+    - Linguagem de Programação: Java, TypeScript;
+    - Frameworks e Ferramentas de Desenvolvimento: NestJS, Spring Boot, JUnit, Mockito e ModelMapper.
+    - Ferramentas de Mapeamento Objeto-Relacional (ORM): JPA, Hibernate, TypeORM, Prisma.
 - Banco de Dados:
-    - Relacional (MySql);
+    - Relacional: MySql;
+- Metodologias Ágeis:
+    - Scrum, Kanban;
 - Utilitários:
-    - Ide (Visual Studio Code, Ecplipse, Spring Tool Suite);
-    - Ferramenta de projetos ageis (Jira);
+    - Ide: Visual Studio Code, Ecplipse, Spring Tool Suite;
+    - Ferramenta de Projetos Ágeis: Jira;
 
 ##  🌐 Contatos:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorfonseca-ads)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorfonsecabarboza@gmail.com)](mailto:victorfonsecabarboza@gmail.com)
-
-##  💻 Tecnologias e Ferramentas:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 
