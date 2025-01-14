@@ -1,15 +1,15 @@
 ## 📰 Resumo:
 
-Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-RJ. Possuo experiência na criação e consumo de APIs utilizando Angular, NestJS, e Spring Boot, incluindo a conversão entre DTOs e entidades com ModelMapper, integração com bancos de dados relacionais via JPA/Hibernate e TypeORM e implementação de testes unitários com JUnit e Mockito. Durante a minha formação, atuei em projetos ágeis aplicando a metodologia SCRUM e desempenhei o papel de Scrum Master em um projeto de versionamento de arquivos para a G+P Soluções.
+Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-RJ. Possuo experiência na criação e consumo de APIs utilizando Angular, NestJS e Spring Boot, integração com bancos de dados relacionais e implementação de testes unitários.
 
 ## 💼 Experiência Profissional:
 
-- Analista Administrativo de TI, Tribunal de Justiça do Estado do Rio de Janeiro, Setembro 2024 - Atualmente.
-    - Análise dos processos de tramitação de documentos e informações utilizando o SEI (Sistema Eletrônico de Informações).
-    - Conferência de pontos de função para validação de complexidade e tamanho de funcionalidades.
+- Analista Administrativo, Tribunal de Justiça do Estado do Rio de Janeiro, Setembro 2024 - Atualmente.
+    - Análise e gestão de processos administrativos utilizando o Sistema Eletrônico de Informações (SEI).
+    - Elaboração de minutas de despacho e pareceres técnicos e administrativos.
 
 -  Estágio Analista de Sistemas, Tribunal de Justiça do Estado do Rio de Janeiro, Dezembro 2022 - Julho 2024.
-    - Conferência de pontos de função para validação de complexidade e tamanho de funcionalidades.
+    - Conferência de pontos de função para validação de complexidade e tamanho de funcionalidades de sistemas.
     - Gerenciamento de demandas conforme prioridades administrativas.
     - Acompanhamento de projetos e suporte técnico em sistemas judiciais de segunda instância.
 
@@ -39,7 +39,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-RJ. Possuo experi�
 
 ##  🌐 Contatos:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorfonseca-ads)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorfonsecabarboza)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:victorfonsecabarboza@gmail.com)](mailto:victorfonsecabarboza@gmail.com)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
