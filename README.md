@@ -27,16 +27,15 @@ Tenho familiaridade com bancos de dados relacionais, como **MySQL** e **PostgreS
 
 - Análise e gestão de processos administrativos utilizando o Sistema Eletrônico de Informações (SEI).
 - Desenvolvimento de relatórios gerenciais e dashboards utilizando Power BI.
-- Tratamento, validação e cruzamento de dados utilizando Excel.
+- Análise, estruturação, validação e cruzamento de dados utilizando Excel.
 - Validação de planilhas de contagem de Pontos de Função (PF) de sistemas.
 
 ### 🔹 Estagiário em Análise de Sistemas
 📅 Dezembro/2022 - Julho/2024
 
-- Apoio na análise e acompanhamento de projetos de sistemas judiciais.
-- Validação de métricas e documentos técnicos.
-- Gerenciamento de demandas conforme prioridades administrativas.
-- Suporte técnico em sistemas utilizados pela instituição.
+- Validação de planilhas de contagem de Pontos de Função (PF) de sistemas
+- Gestão de demandas segundo prioridades administrativas, utilizando o HP Service Manager.
+- Acompanhamento de projetos e suporte técnico em sistemas judiciais de segundo grau.
 
 ---
 
