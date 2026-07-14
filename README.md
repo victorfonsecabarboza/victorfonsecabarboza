@@ -1,74 +1,110 @@
+# 👋 Olá, eu sou Victor Fonseca
+
+💻 **Desenvolvedor Full Stack | Analista de Dados**  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-RJ  
+🚀 Angular • NestJS • Spring Boot • APIs REST  
+📊 Experiência com Dados, Power BI e Desenvolvimento Front-End 
+⚡ Atuação com Metodologias Ágeis e Scrum Master  
+
+---
+
 ## 👨‍💻 Sobre Mim
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-RJ, com experiência prática no desenvolvimento de aplicações web e APIs RESTful. Trabalho com tecnologias modernas como Angular e NestJS (ambos com TypeScript), além de Spring Boot (Java). Tenho familiaridade com bancos de dados relacionais como MySQL e PostgreSQL, uso de ORMs como TypeORM, Prisma, JPA e Hibernate, além de conhecimento em testes unitários com JUnit, Mockito e Jest.
+Graduado em **Análise e Desenvolvimento de Sistemas** pelo **SENAC-RJ**, possuo experiência com metodologias ágeis (**Scrum** e **Kanban**), atuando como **Scrum Master** na facilitação de cerimônias, acompanhamento de entregas, remoção de impedimentos e promoção da melhoria contínua dos times.
 
-Além das habilidades técnicas, tenho vivência com metodologias ágeis (Scrum e Kanban), controle de tarefas com Jira, versionamento com Git e documentação de APIs com Swagger.
+Tenho experiência no desenvolvimento de aplicações utilizando **Angular (TypeScript)**, **NestJS (TypeScript)** e **Spring Boot (Java)**, incluindo criação e consumo de **APIs REST**. Também possuo conhecimento em controle de tarefas com **Jira**, versionamento de código com **Git** e documentação de APIs utilizando **Swagger**.
+
+Tenho familiaridade com bancos de dados relacionais, como **MySQL** e **PostgreSQL**, além da utilização de **TypeORM**, **Prisma**, **JPA** e **Hibernate**, aplicando boas práticas no desenvolvimento de soluções escaláveis e de fácil manutenção.
 
 ---
 
-## 💼 Experiência Profissional
+# 💼 Experiência Profissional
 
-**🔹 Analista Administrativo**  
-📍 *Tribunal de Justiça do Estado do Rio de Janeiro*  
-📅 *Setembro 2024 – Atualmente*  
+## 🏛️ Tribunal de Justiça do Estado do Rio de Janeiro
+
+### 🔹 Analista Administrativo
+📅 Setembro/2024 - Atualmente
+
 - Análise e gestão de processos administrativos utilizando o Sistema Eletrônico de Informações (SEI).
-- Elaboração de minutas de despacho e pareceres técnicos e administrativos.
+- Desenvolvimento de relatórios gerenciais e dashboards utilizando Power BI.
+- Tratamento, validação e cruzamento de dados utilizando Excel.
+- Validação de planilhas de contagem de Pontos de Função (PF) de sistemas.
 
-**🔹 Estagiário em Análise de Sistemas**  
-📍 *Tribunal de Justiça do Estado do Rio de Janeiro*  
-📅 *Dezembro 2022 – Julho 2024*  
-- Conferência de pontos de função para validação de complexidade e tamanho de funcionalidades de sistemas.
+### 🔹 Estagiário em Análise de Sistemas
+📅 Dezembro/2022 - Julho/2024
+
+- Apoio na análise e acompanhamento de projetos de sistemas judiciais.
+- Validação de métricas e documentos técnicos.
 - Gerenciamento de demandas conforme prioridades administrativas.
-- Acompanhamento de projetos e suporte técnico em sistemas judiciais de segunda instância.
+- Suporte técnico em sistemas utilizados pela instituição.
 
 ---
 
-## 🎓 Formação Acadêmica
+# 🎓 Formação Acadêmica
 
 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-📍 *Serviço Nacional de Aprendizagem Comercial (SENAC-RJ)*  
-📅 *Concluído em Julho de 2024*
+📍 Serviço Nacional de Aprendizagem Comercial (SENAC-RJ)  
+📅 Concluído em Julho de 2024
 
 ---
 
-## 🛠️ Stack Técnico
+# 🚀 Tecnologias
 
-**💻 Engenharia de Software**
-- UML: Casos de Uso, Diagrama de Classes, Diagrama de Atividades  
-- Documentação e levantamento de requisitos  
+## 💻 Front-end
 
-**🖥️ Front-end**
-- Linguagens: HTML, CSS, JavaScript, TypeScript  
-- Frameworks: Angular  
+<img src="https://skillicons.dev/icons?i=angular,typescript,html,css,javascript" height="40" />
 
-**🧪 Back-end**
-- Linguagens: Java, TypeScript  
-- Frameworks: Spring Boot, NestJS  
-- Testes: JUnit, Mockito, Jest  
+## ⚙️ Back-end
 
-**🗃️ Banco de Dados**
-- Relacionais: MySQL, PostgreSQL.
-- ORMs: JPA, Hibernate, TypeORM, Prisma  
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" height="40" />
 
-**⚙️ Metodologias e Ferramentas**
-- Metodologias ágeis: Scrum, Kanban  
-- Versionamento: Git  
-- IDEs: Visual Studio Code, Eclipse, Spring Tool Suite  
-- Gerenciamento de Tarefas: Jira  
-- Documentação e testes de API: Swagger, Postman
+- NestJS
+- Spring Boot
+- APIs REST
+
+## 🗃️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" />
+
+- JPA
+- Hibernate
+- TypeORM
+- Prisma
+
+## 🛠️ Ferramentas e Metodologias
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" height="40" />
+
+- Scrum
+- Kanban
+- Jira
+- Swagger
+- Postman
 
 ---
 
-## 🌐 Contato e Redes
+# 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorfonsecabarboza)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorfonsecabarboza@gmail.com)  
-![Git](https://img.shields.io/badge/-Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+  <a href="https://linkedin.com/in/victorfonsecabarboza">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:victorfonsecabarboza@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
-## 📊 Atividade no GitHub
+# 📊 Atividade no GitHub
+
+<div align="center">
 
 <a href="https://github.com/victorfonsecabarboza">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=victorfonsecabarboza&show_icons=true&theme=dark&hide_title=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfonsecabarboza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
+
+<a href="https://github.com/victorfonsecabarboza">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfonsecabarboza&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
